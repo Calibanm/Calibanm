@@ -9,7 +9,8 @@
 Me chamo Claubio Filho, tenho 21 anos e moro em Fortaleza- CE. Atualmente curso Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia.
  
 # 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="" height="190px" src="./scr
+/final fantasy cloud GIF.gif">
 
 <h3 align="left">Connect with me!</h3>
 
