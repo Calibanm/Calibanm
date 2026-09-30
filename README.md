@@ -13,8 +13,6 @@ Me chamo Claubio Filho, tenho 21 anos e moro em Fortaleza- CE. Atualmente curso 
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](claubio.filho39@gmail.com)
-
 
 <h3 align="left">My Stack ~</h3>
 
