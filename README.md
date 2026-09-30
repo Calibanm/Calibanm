@@ -8,9 +8,11 @@
 
 Me chamo Claubio Filho, tenho 21 anos e moro em Fortaleza- CE. Atualmente curso Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia.
  
-# 
-<img align="right" alt="" height="190px" src="./scr
-/final fantasy cloud GIF.gif">
+#<p align="center">
+  <img src="https://raw.githubusercontent.com/Calibanm/Calibanm/main/scr/final%20fantasy%20cloud%20GIF.gif" alt="Final Fantasy Cloud" width="500">
+</p>
+
+
 
 <h3 align="left">Connect with me!</h3>
 
